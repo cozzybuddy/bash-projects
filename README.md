@@ -35,7 +35,7 @@ Not every hacker wants to write Python. Bash is already in your terminal, fast, 
 
 ---
 
-## 🧪 Try It Out
+## 🧪 Try It Out (make sure you run it as root)
 
 ```bash
 git clone https://github.com/cozzybuddy/bash-projects.git
