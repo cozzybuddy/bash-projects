@@ -2,6 +2,8 @@
 
 > A collection of powerful yet beginner-friendly Bash scripting projects made for ethical hackers, bug bounty hunters, and cybersecurity learners. Automate boring tasks and level up your recon like a Net Ninja. 🧠💻
 
+
+
 ---
 
 ## 🚀 What's Inside?
