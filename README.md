@@ -2,10 +2,6 @@
 
 > A collection of powerful yet beginner-friendly Bash scripting projects made for ethical hackers, bug bounty hunters, and cybersecurity learners. Automate boring tasks and level up your recon like a Net Ninja. 🧠💻
 
-![GitHub repo size](https://img.shields.io/github/repo-size/cozzybuddy/bash-projects)
-![GitHub stars](https://img.shields.io/github/stars/cozzybuddy/bash-projects?style=social)
-![License](https://img.shields.io/github/license/cozzybuddy/bash-projects)
-
 ---
 
 ## 🚀 What's Inside?
